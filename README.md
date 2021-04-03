@@ -1,5 +1,5 @@
 # Silhouette-clustering-
-Unsupervised Machine Learning - Validating Clustering Models
+Unsupervised Machine Learning - Validating Clustering Models using KMeans
 
 
 Reference: https://en.wikipedia.org/wiki/Silhouette_(clustering)
